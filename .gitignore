@@ -10,3 +10,5 @@ amznbot/__init__.py
 amznbot/test.py
 .python-version
 .vscode/
+env
+venv
