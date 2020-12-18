@@ -1,0 +1,12 @@
+build
+dist
+main.spec
+poetry.lock
+pyproject.toml
+setup.py
+amznbot/__pycache__
+amznbot/VS Code.txt
+amznbot/__init__.py
+amznbot/test.py
+.python-version
+.vscode/
